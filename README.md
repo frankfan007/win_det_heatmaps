@@ -78,7 +78,23 @@ As our method can efficiently locate windows in urban facade images, it is of us
 
 # Citation
 If you find our code/dataset/models/paper helpful in your research, please cite with:
-> Chuan-Kang Li, Hong-Xin Zhang, Jia-Xin Liu, Yuan-Qing Zhang, Shan-hen Zou, Yu-Tong Fang. Window Detection in Facades Using Heatmap Fusion[J].Journal of Computer Science and Technology, 2020, 35(4): 900-912.
+> @article{Chuan-Kang Li:900, <br/>
+author = {Chuan-Kang Li, Hong-Xin Zhang, Jia-Xin Liu, Yuan-Qing Zhang, Shan-Chen Zou, Yu-Tong Fang},<br/>
+title = {Window Detection in Facades Using Heatmap Fusion},<br/>
+publisher = {Journal of Computer Science and Technology},<br/>
+year = {2020},<br/>
+journal = {Journal of Computer Science and Technology},<br/>
+volume = {35},<br/>
+number = {4},<br/>
+eid = {900},<br/>
+numpages = {12},<br/>
+pages = {900},<br/>
+keywords = {facade parsing;window detection;keypoint localization},<br/>
+url = {http://jcst.ict.ac.cn/EN/abstract/article_2660.shtml},<br/>
+doi = {10.1007/s11390-020-0253-4}<br/>
+}    
+
+
  
 # Acknowledgement
 The major contributors of this repository include [Chuankang Li](https://github.com/lck1201), [Yuanqing Zhang](https://github.com/yuanqing-zhang), [Shanchen Zou](https://github.com/Generior), and [Hongxin Zhang](https://person.zju.edu.cn/zhx).
